@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaciejUlasiuk
-- 👀 I’m interested in javascript
+- 👀 I’m interested in webdev
 - 🌱 I’m currently learning react, typescript, nodejs
 - 💞️ I’m looking to collaborate on literally anything :)
 - 📫 How to reach me my email: piksi_u@interia.pl
