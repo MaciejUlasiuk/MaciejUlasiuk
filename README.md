@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaciejUlasiuk
 - 👀 I’m interested in webdev
-- 🌱 I’m currently learning react, typescript, nodejs
-- 💞️ I’m looking to collaborate on literally anything :)
+- 🌱 I’m currently learning react, typescript, redux, mui, tailwind
 - 📫 How to reach me my email: piksi_u@interia.pl
 
 <!---
