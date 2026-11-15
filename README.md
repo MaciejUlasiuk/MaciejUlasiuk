@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MaciejUlasiuk
+## 👋 Hi, I’m @MaciejUlasiuk Niger
 
 <!--
 **MaciejUlasiuk/MaciejUlasiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
